@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/00/06/23/375628d7b20df33.jpg);
+    background-size: 100%;
+}
+.text{
+    color: red;
+    font-size: 50px;
+}
+#button-1{
+    background-image: url(http://cdn.playbuzz.com/cdn/35910209-2844-45c0-b099-f4d82878d54f/00261fda-4062-4096-81fd-8cf96b9034e8.jpg);
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+#button-2{
+    background-image: url(http://cdn.playbuzz.com/cdn/35910209-2844-45c0-b099-f4d82878d54f/00261fda-4062-4096-81fd-8cf96b9034e8.jpg);
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+#button-3{
+    background-image: url(http://cdn.playbuzz.com/cdn/35910209-2844-45c0-b099-f4d82878d54f/00261fda-4062-4096-81fd-8cf96b9034e8.jpg);
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+#button-4{
+    background-image: url(http://cdn.playbuzz.com/cdn/35910209-2844-45c0-b099-f4d82878d54f/00261fda-4062-4096-81fd-8cf96b9034e8.jpg);
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
